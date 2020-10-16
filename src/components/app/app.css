@@ -1,0 +1,10 @@
+.all-app {
+  max-width: 0 auto;
+  height: 1000px;
+  background: #b3d0c5;
+}
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+  background: #b3d0c5;
+}
